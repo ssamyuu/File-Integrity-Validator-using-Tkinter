@@ -1,2 +1,2 @@
 # File-Integrity-Validator-using-Tkinter
-This Tkinter-based desktop app verifies file integrity by computing and comparing MD5 hashes. Users can add files, view their hashes, save/export data, and verify integrity. Features include overall hash generation, error alerts, and a clean, user-friendly interface.
+This Tkinter-based desktop app validates file integrity using MD5 hashes. Users can add files, generate and verify hashes, and view results in a user-friendly interface. It supports saving data in binary format (.bin) and exporting in CSV format, with overall hash generation and error handling.
